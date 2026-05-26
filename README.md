@@ -66,33 +66,4 @@ Author:BITANYA DEREJE
 License
 This project is for educational purposes as part of the 10 Academy program.
 
-text
-
-**Note:** Replace `[your value]` and `[Your Name]` with your actual numbers and name (optional).
-
----
-
-## Save, commit, and push
-
-After creating the file, run:
-
-```bash
-git add README.md
-git commit -m "Add README with DVC reproduction steps"
-git push origin master
-Final submission check:
-README.md exists with DVC instructions
-
-All notebooks committed
-
-All report images committed
-
-reports/final_report.md committed
-
-CI is green on GitHub
-
-DVC files (.dvc, .dvc/config) committed
-
-Now you're fully ready. Submit your GitHub URL. Great work! 🚀
-
 
