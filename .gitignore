@@ -1,0 +1,14 @@
+﻿# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.ipynb_checkpoints/
+
+# Data
+data/*.csv
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
